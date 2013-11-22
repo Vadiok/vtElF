@@ -1,0 +1,1 @@
+MODX_CORE_PATH.'components/mycomponent/_build/config/'.$packageNameLower.'.config.php'
